@@ -12,7 +12,7 @@
 
 - :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Mansoura University
 - 🌱 I’m currently studing `Frontend & Delving deeper into programming `
-- 📫 How to reach me **mostafasaadelgabear@gmail.com*
+- 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY
 RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 - :nerd_face: Most of the time ` I learn something new`
