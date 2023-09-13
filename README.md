@@ -64,8 +64,5 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasaad111&"
         alt="mostafasaad111" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=mostafasaad111" alt="mostafasaad111" /></a> </p>
-
 
         
