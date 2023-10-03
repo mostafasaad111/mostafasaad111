@@ -57,12 +57,4 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasaad111&show_icons=true&locale=en&layout=compact"
         alt="mostafasaad111" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mostafasaad111&show_icons=true&locale=en"
-        alt="mostafasaad111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasaad111&"
-        alt="mostafasaad111" /></p>
-
-
-        
