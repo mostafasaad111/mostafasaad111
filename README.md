@@ -18,15 +18,11 @@
 RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 - :nerd_face: Most of the time ` I learn something new`
 - 🐼 Doing my best
+### Connect with Me :
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/http://www.linkedin.com/in/mostafasaad-elgabear-527a00220" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="http://www.linkedin.com/in/mostafasaad-elgabear-527a00220" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/mostafasaad-elgabear-527a00220" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/https://t.me/Mustafa_saad5" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
