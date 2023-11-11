@@ -21,7 +21,7 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/mostafasaad-elgabear-527a00220" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/https://t.me/Mustafa_saad5" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Mustafa_saad5" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
