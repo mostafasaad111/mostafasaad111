@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Saad</h1>
-<h3 align="center">Frontend Engineer </h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0066cc&vCenter=true&size=22"></a>
+</p> 
 <p align="middle"> <img
         src="https://komarev.com/ghpvc/?username=mostafasaad111&label=Profile%20views&color=0e75b6&style=flat"
         alt="mostafasaad111" /> </p>
