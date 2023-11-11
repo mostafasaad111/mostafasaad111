@@ -11,7 +11,7 @@
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
     width=350px />
 
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Mansoura University
+- :school: I am a `Computer Science  Graduate` from Faculty of Computers & Information at Mansoura University
 - 🌱 I’m currently studing `Frontend & Delving deeper into programming `
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY
