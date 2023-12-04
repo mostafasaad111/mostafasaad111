@@ -20,11 +20,14 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 - 🐼 Doing my best
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mostafasaad-elgabear-527a00220" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Mustafa_saad5" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Saad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/mostafasaad-elgabear-527a00220"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://t.me/Mustafa_saad5"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<img  width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Languages & Tools__ </span>  <img width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
