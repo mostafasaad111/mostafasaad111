@@ -9,7 +9,7 @@
 
 <img align="right"
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-    width=350px />
+    width=300px />
 
 - :school: I am a `Computer Science  Graduate` from Faculty of Computers & Information at Mansoura University
 - 🌱 I’m currently studing `Frontend & Delving deeper into programming `
@@ -25,7 +25,7 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 </p>
 
 
-<img  width='40%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Languages & Tools__ </span>  <img width='40%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img  width='38%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Languages & Tools__ </span>  <img width='38%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
