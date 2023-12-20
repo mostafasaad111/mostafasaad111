@@ -16,8 +16,7 @@
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY
 RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
-- :nerd_face: Most of the time ` I learn something new`
-- 🐼 Doing my best
+
 ### Connect with Me :
 
 <p align="left">
