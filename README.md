@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Saad</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=(.Net_Engineer)%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=(Full_Stack.Net_Engineer)%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
     width=300px />
 
 - :school: I am a `Computer Science  Graduate` from Faculty of Computers & Information at Mansoura University
-- 🌱 I’m currently studing `Frontend & Delving deeper into programming `
+- 🌱 I’m currently studing `FullStack & Delving deeper into programming `
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY
 RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
@@ -29,6 +29,8 @@ RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 
 
 <img  width='42%'  src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Languages & Tools__ </span>  <img width='42%'  src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
