@@ -10,14 +10,10 @@
         alt="mostafasaad111" /> </p>
 
 
-<img align="right"
-    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-    width=250px />
-
 - 🏫:School: I graduated from the `Faculty of Computers and Information`, at Mansoura University
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
-
-## 📩 Connect with me
+<h2> 📩 Connect with me</h2>
+<br>
 
 <p align="left">
 <a href="https://linkedin.com/in/mostafasaad-elgabear-527a00220"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
