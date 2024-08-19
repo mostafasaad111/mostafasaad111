@@ -14,11 +14,8 @@
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
     width=300px />
 
-- :school: I am a `Computer Science  Graduate` from Faculty of Computers & Information at Mansoura University
-- 🌱 I’m currently studing `FullStack & Delving deeper into programming `
+- 🏫:School: I graduated from the `Faculty of Computers and Information`, Mansoura University
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY
-RESUME](http://www.linkedin.com/in/mostafasaad-elgabear-527a00220).
 
 ### Connect with Me :
 
