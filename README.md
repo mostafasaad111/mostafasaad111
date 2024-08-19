@@ -10,7 +10,7 @@
         alt="mostafasaad111" /> </p>
 
 
-- 🏫:School: I graduated from the `Faculty of Computers and Information`, at Mansoura University
+- 🏫:School: I graduated from the `Faculty of Computers and Information`, at `Mansoura University`
 - 📫 How to reach me **mostafasaadelgabear@gmail.com** & https://t.me/Mustafa_saad5 
 <h2> 📩 Connect with me</h2>
 <br>
