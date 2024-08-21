@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mostafasaad111&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasaad111" />
 </p>
 
-- 🏫:School: I graduated from the `Faculty of Computers and Information`, at `Mansoura University`
+- 🏫the university: I graduated from the `Faculty of Computers and Information`, at `Mansoura University`
 - 📫 How to reach me
 <p align="center">
   <a href="mailto:mostafasaadelgabear@gmail.com" title="Gmail">
